@@ -150,15 +150,14 @@ background: white;
   margin-right: 1rem;
   padding: 0.8rem 1.5rem;
   border: none;
-  border-radius: 20px;
   cursor: pointer;
 }
 
 .buttons .register {
   background: #28a745;
   color: white;
-  border-radius: 20px;
-  
+  border-radius: 4px;
+}
 
 .illustration img {
   max-width: 100%;
